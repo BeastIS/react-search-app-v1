@@ -21,9 +21,7 @@ function Home() {
         </div>
       </div>
 
-      <div className="home__body">
-          
-      </div>
+      <div className="home__body"></div>
     </div>
   );
 }
